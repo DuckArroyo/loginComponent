@@ -1,5 +1,5 @@
 # loginComponent
-##React component 
+## React component 
 
 <link rel="icon" href="" />
 <title>App name</title>
